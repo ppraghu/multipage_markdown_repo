@@ -1,3 +1,3 @@
 # multipage_markdown_repo
 ## Table of Contents
-<<[sections/section1.md]
+[Section 1](section1.md)
