@@ -1,9 +1,6 @@
-# multipage_markdown_repo
+# Coding Standards Documentation
+
 ## Table of Contents
-[Section 1](section1.md)
-
-{"gitdown": "include", "file": "./section1.md"}
-
-@@include[section1.md](./section1.md)
-
+- [Java Coding Standards](Java/README.md)
+- [Python Coding Standards](Python/README.md)
 
