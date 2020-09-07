@@ -1,3 +1,5 @@
+[Go back](../JavaCodingStandard.md)
+
 ## Switch Statements
 
 Switch statements fall-through by default, but this can be unintuitive. If you

@@ -1,3 +1,5 @@
+[Go back](../JavaCodingStandard.md)
+
 ## Brace Style
 
 Only trailing closing-braces are awarded their own line. All others appear the
