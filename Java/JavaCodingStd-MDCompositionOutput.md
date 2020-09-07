@@ -43,8 +43,8 @@ From now on, projects you create _should_ follow the correct style guidelines.
 <a name="the-official-java-coding-standards-document-table-of-contents"></a>
 ## Table of Contents
 
-- [Nomenclature](#the-official-java-coding-standards-document-nomenclature)
-- [Declarations](#the-official-java-coding-standards-document-declarations)
+- [Nomenclature](#nomenclature)
+- [Declarations](#declarations)
 - [Spacing](#spacing)
 - [Getters & Setters](#getters--setters)
 - [Brace Style](#brace-style)
