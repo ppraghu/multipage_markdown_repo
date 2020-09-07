@@ -1,4 +1,4 @@
-# The Official raywenderlich.com Java Style Guide
+# The Official Java Coding Standards Document
 
 (Courtesy: [Ray Wenderlich](https://github.com/raywenderlich/java-style-guide))
 
@@ -51,6 +51,4 @@ From now on, projects you create _should_ follow the correct style guidelines.
 - [Copyright Statement](sections/CopyrightStatement.md)
 - [Credit](sections/Credits.md)
 
-## Credits:
 
-{"gitdown": "include", "file": "sections/Credits.md"}
