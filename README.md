@@ -19,7 +19,7 @@ These coding standards are organized in such a way that:
 ---
 
 **Original Author(s):** [Raghu Pushpakath](mailto:Raghu.Pushpakath@ust-global.com)  
-**Maintainer(s):** [Raghu Pushpakath](mailto:Raghu.Pushpakath@ust-global.com), [Ram Krishnan](Ram.Krishnan@yahoo.com)  
-**Contributer(s):** [Ram Krishnan](ramkrishnan@yahoo.com), [Gopal Shankar](g.shankar@gmail.com)  
+**Maintainer(s):** [Raghu Pushpakath](mailto:Raghu.Pushpakath@ust-global.com), [Ram Krishnan](mailto:Ram.Krishnan@yahoo.com)  
+**Contributer(s):** [Ram Krishnan](mailto:ramkrishnan@yahoo.com), [Gopal Shankar](mailto:g.shankar@gmail.com)  
 
 ---
