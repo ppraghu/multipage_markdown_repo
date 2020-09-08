@@ -1,5 +1,16 @@
 # The Official Java Coding Standards Document
 
+**Version:** 1.0.2  
+**Date Last Updated:** Sept 08,2020
+
+---
+
+**Original Author(s):** [Raghu Pushpakath](mailto:Raghu.Pushpakath@ust-global.com)  
+**Maintainer(s):** [Raghu Pushpakath](mailto:Raghu.Pushpakath@ust-global.com), [Ram Krishnan](Ram.Krishnan@yahoo.com)  
+**Contributer(s):** [Ram Krishnan](ramkrishnan@yahoo.com), [Gopal Shankar](g.shankar@gmail.com)  
+
+---
+
 (Courtesy: [Ray Wenderlich](https://github.com/raywenderlich/java-style-guide))
 
 This style guide is different from other you may see, because the focus is
